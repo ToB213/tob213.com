@@ -1,0 +1,21 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "format": "prettier --write \"src/**/*.{css,html,md,njk}\"",
+    "format:check": "prettier --check \"src/**/*.{css,html,md,njk}\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.5",
+    "prettier": "^3.8.3"
+  }
+}
