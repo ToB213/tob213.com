@@ -1,15 +1,14 @@
 ---
 layout: base.njk
-templateEngineOverride: njk
 title: コーヒー豆買わなきゃ
-description:
+description: コーヒー豆を買うメモ。
+date: 2026-05-10
 ---
 
 <article class="article">
   <header class="article-header">
-    <p class="kicker">Writing</p>
-    <h1>コーヒー豆買わなきゃ</h1>
-    <p class="article-meta"><time datetime="2026-05-10">2026.05.10</time></p>
+    <h1>{{ title }}</h1>
+    <time datetime="{{ date | dateIso }}">{{ date | dateDisplay }}</time>
   </header>
 
   <div class="prose">
