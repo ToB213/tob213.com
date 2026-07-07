@@ -1,5 +1,6 @@
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/styles.css");
+  eleventyConfig.addPassthroughCopy({ "src/blog/images": "blog/images" });
 
   eleventyConfig.addFilter("dateIso", function (date) {
     return date.toISOString().slice(0, 10);

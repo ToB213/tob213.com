@@ -1,8 +1,5 @@
 ---
 layout: base.njk
-title: コーヒー豆買わなきゃ
-description: コーヒー豆を買うメモ。
-date: 2026-05-10
 ---
 
 <article class="article">
@@ -11,7 +8,5 @@ date: 2026-05-10
     <time datetime="{{ date | dateIso }}">{{ date | dateDisplay }}</time>
   </header>
 
-  <div class="prose">
-    <p>コーヒーはインフラ。カルディに行こう。</p>
-  </div>
+  <div class="prose">{{ content | safe }}</div>
 </article>
