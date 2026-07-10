@@ -18,17 +18,21 @@ description: Tobの自己紹介。
 - RoboCup JapanOpen Rescue Simulation League 2025 3位
 - RoboCup JapanOpen 2025 計測自動制御学会賞
 
-# Participation and Exhibitions
+# Activities
+参加した競技会、インターン、ゲームイベントでの展示など。
+
+- 株式式会社スリーシェイク SREワークショップ
+- BitSummit 2026
 - RoboCup JapanOpen 2026
 - RoboCup 2025
+- RoboCup JapanOpen 2025
 - 人工知能学会 SIG-SAI MEETING-2025-11
-- WiNF 2024
 - BitSummit 2025
 - デジゲー博 2025
-- RoboCup JapanOpen 2025
+- 情報学ワークショップ 2024
 - Busan Indie Connect Festival 2024
-- Tokyo Game Show 2024
-- ゲームマーケット2023春
+- 東京ゲームショウ 2024
 - BitSummit 2023
-- Tokyo Game Show 2023
-- Tokyo Game Show 2022
+- 東京ゲームショウ 2023
+- ゲームマーケット2023春
+- 東京ゲームショウ 2022
