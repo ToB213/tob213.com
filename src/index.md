@@ -13,10 +13,10 @@ description: Tobの個人サイト。SNS、自己紹介、ブログ。
 <section class="section" aria-labelledby="links-title">
   <h2 id="links-title">Links</h2>
   <ul class="link-list">
-    <li><a href="https://github.com/tob213">GitHub</a></li>
-    <li><a href="https://x.com/just_for_ToB">X（@just_for_ToB）</a></li>
+    <li><a href="https://github.com/tob213" target="_blank">GitHub</a></li>
+    <li><a href="https://x.com/T0Tis2B" target="_blank">X（@T0Tis2B）</a></li>
     <li><a href="mailto:contact@tob213.com">Email（contact@tob213.com）</a></li>
-    <li><a href="https://unuse.jp/">ゲーム開発チーム「unuse」</a></li>
+    <li><a href="https://unuse.jp/" target="_blank">ゲーム開発チーム「unuse」</a></li>
   </ul>
 </section>
 
