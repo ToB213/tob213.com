@@ -138,6 +138,58 @@ p {
   margin-bottom: 0.55rem;
 }
 
+.activity-list {
+  display: grid;
+  grid-template-columns: 4.5rem 1fr;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.activity-list li {
+  display: contents;
+}
+
+.activity-list time,
+.activity-list span {
+  padding: 0.55rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+.activity-list time {
+  font-variant-numeric: tabular-nums;
+}
+
+.publication-list {
+  display: grid;
+  gap: 1.25rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.publication-list li {
+  display: grid;
+  gap: 0.15rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.publication-list strong {
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.publication-list span {
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.publication-list .publication-authors {
+  color: var(--ink);
+  line-height: 1.6;
+}
+
 .post-list a {
   font-weight: 550;
 }
@@ -203,6 +255,10 @@ time,
   .post-list time {
     display: block;
     min-width: 0;
+  }
+
+  .activity-list {
+    grid-template-columns: 3.5rem 1fr;
   }
 }
 
