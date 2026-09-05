@@ -46,6 +46,8 @@ description: Tobの自己紹介。
 ## インターン・ワークショップ
 
 <ul class="activity-list">
+  <li><time datetime="2026">2026</time><span>株式会社スリーシェイク 期限付きインターンシップ（1ヶ月）
+  </span></li>
   <li><time datetime="2026">2026</time><span>株式会社カプコン インターンシップ【ゲームサーバーAPI開発】
   </span></li>
   <li><time datetime="2026">2026</time><span>株式会社スリーシェイク SREワークショップ</span></li>
@@ -54,6 +56,7 @@ description: Tobの自己紹介。
 ## イベント展示
 
 <ul class="activity-list">
+  <li><time datetime="2026">2026</time><span>EC2026（make.ctrl.Japan17）</span></li>
   <li><time datetime="2026">2026</time><span>BitSummit</span></li>
   <li><time datetime="2025">2025</time><span>BitSummit</span></li>
   <li><time datetime="2025">2025</time><span>デジゲー博</span></li>
